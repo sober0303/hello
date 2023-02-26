@@ -1,5 +1,5 @@
 <template>
-  <div>我是111</div>
+  <div>美少女战士</div>
 </template>
 
 <script>
